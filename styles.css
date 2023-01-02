@@ -45,3 +45,27 @@ h1 {
 ul.heading > li {
   font-size: 1.2rem;
 }
+
+ul.contact-us li i svg {
+  width: 16px;
+  height: 16px;
+}
+
+@media (max-width: 768px) {
+  ul.contact-us li {
+    font-size: 0.8rem;
+  }
+
+  ul.contact-us li i svg {
+    width: 14px;
+    height: 14px;
+  }
+
+  img.logo {
+    height: 230px;
+  }
+}
+
+.contact-details {
+  display: flex;
+}
