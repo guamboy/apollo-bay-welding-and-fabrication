@@ -1,0 +1,47 @@
+.bg-logo {
+  background-color: #ccd3e5;
+}
+
+header {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+/* section.about-us {
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+
+section.services {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+section.portfolio {
+  padding-top: 40px;
+  padding-bottom: 40px;
+} */
+
+.isotope-item {
+  /* max-height: 200px; */
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+img {
+  padding-bottom: 40px;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+ul.heading > li {
+  font-size: 1.2rem;
+}
