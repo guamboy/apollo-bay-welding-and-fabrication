@@ -52,9 +52,9 @@ ul.contact-us li i svg {
 }
 
 @media (max-width: 768px) {
-  ul.contact-us li {
+  /* ul.contact-us li {
     font-size: 0.7rem;
-  }
+  } */
 
   ul.contact-us li i svg {
     width: 14px;
